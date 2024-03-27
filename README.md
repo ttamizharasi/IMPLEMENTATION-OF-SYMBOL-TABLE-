@@ -66,7 +66,7 @@ getch();
 }
 ```
 # OUTPUT
-![image](https://github.com/ttamizharasi/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/119657317/932f8813-2882-443a-91bc-9c3c3bc03123)
+![image](https://github.com/ttamizharasi/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/119657317/c343bfb8-77d3-4363-8f4c-44d5246d9685)
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
